@@ -1,8 +1,12 @@
 1. git init
 2. git remote add origin https://github.com/hoomandaws/MERN_CLASSES
-3. git remote -v
-4. git status
-5. git add .(.=>all)
-6. git status
-7. git commit -m "Html-css"
-8. git push
+2.1. git remote -v
+3. git status
+4. git add .(.=>all)
+5. git status
+6. git commit -m "Html-css"
+7. git push
+
+
+to clone 
+git clone (link)
